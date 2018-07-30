@@ -11,7 +11,7 @@
 using System;
 using System.Windows.Forms;
 
-namespace generate_guid
+namespace GuidGenerator
 {
     class Program
     {
